@@ -1,7 +1,5 @@
 def reverse_list(input_list):
-    """
-    Reverses  the order of elements in list input_list.
-    """
+
     length = len(input_list) - 1
     l1 = []
     while length >= 0:
